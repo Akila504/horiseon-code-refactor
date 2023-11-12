@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-    padding: 20px;
+    padding: 25px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -24,21 +24,32 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+/*I have commented out the flot right as it interferes with the inline block in line 31 and also commented out the font family which interferes with original font fam */
+.header {
     padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 0px;
+    /*float: right;*/
+    /*font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;*/
     font-size: 20px;
+
 }
 
-.header div ul {
+/*added float right to move the unordered list items to the right*/
+/*added margin -35 auto to move the list items upward and centre in line 43*/
+
+.header ul {
     list-style-type: none;
+    float: right;
+    margin: -35px auto;
 }
 
-.header div ul li {
+/*added the correct font family for the listed items*/
+.header ul li {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
 }
 
 a {

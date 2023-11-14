@@ -4,9 +4,9 @@
 
 The main objective of this project was to refactor the exisitng code for the Horiseon Website, specifcally to change the non semantic div tags to semantic tags, add in alt text to images and adjust the CSS accordingly. 
 
-The reason for doing this project is that non semantic HTMl elements does non provide context of the code. Changing the html elements to semantic elements also solves many problems to do with search engine optimization, and makes the HTML easier to interpret for non coders. Additonlly, changing images to include alt text means that in the case of a images not loading there is a description of what the image is supposed to be is there, this also helps people who may be visually impaired who are unable to view the image. Changing images to include greate alt text also help search engine optimization to deliver more traffic to your website. 
+The reason for doing this project is that non semantic HTMl elements does non provide context of the code. Changing the html elements to semantic elements also solves many problems to do with search engine optimization, and makes the HTML easier to interpret for non coders. Additonlly, changing images to include alt text means that in the case of a images not loading there is a description of what the image is supposed to be is there, this also helps people who may be visually impaired who are unable to view the image. Changing images to include great alt text also help search engine optimization to deliver more traffic to your website. 
 
-From this project I aquired many skills relating to why semantic elements are important, how to adjust css associated with non semantic elements ,how to  include good alt text to images for search engine optimization, and how to use different semantic elements in the appropritate structure of the webpage. 
+From this project I aquired many skills such as why semantic elements are important, how to adjust css associated with non semantic elements ,how to  include good alt text to images for search engine optimization, and how to use different semantic elements in the appropritate structure of the webpage. 
 
 ## Installation
 

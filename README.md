@@ -10,12 +10,14 @@ From this project I aquired many skills such as why semantic elements are import
 
 ## Installation
 
-N/A
+N/A 
 
 ## Usage
 
 To see the completed website please visit :
-https://akila504.github.io/horiseon-code-refactor/
+https://akila504.github.io/horiseon-code-refactor/ 
+
+![the website should look like this](assets/images/Horiseon%20Screenshot.png)
 
 ## Credits
 Some youtube videos that I watched that helped greatly: 
